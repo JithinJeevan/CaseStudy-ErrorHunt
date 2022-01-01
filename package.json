@@ -11,6 +11,7 @@
     "mongoose": "^5.7.12"
   },
   "devDependencies": {},
+  
   "scripts": {
     "start": "node app.js"
   },

@@ -4,6 +4,7 @@ const bodyParser= require('body-parser');
 const path = require ('path'); 
 const cors = require('cors');
 
+// Port declared
 const port = process.env.PORT || 5000;
 
 const nav= [
